@@ -26,9 +26,9 @@ import scratchattach as scratch3
 # CONFIGURATION - à adapter
 # ----------------------------------------------------------------------
 
-PROJECT_ID = "REMPLACEZ_PAR_VOTRE_ID"   # l'ID numérique de votre projet Scratch
+PROJECT_ID = "1387761448"   # l'ID numérique de votre projet Scratch
 PURPOSE = "Serveur navigateur Scratch"   # décrit l'usage du bot (évite d'être bloqué par TurboWarp)
-CONTACT = "REMPLACEZ_PAR_VOTRE_PSEUDO_SCRATCH"  # votre pseudo Scratch ou un autre contact
+CONTACT = "Lu_Li_49"  # votre pseudo Scratch ou un autre contact
 
 MAX_LENGTH = 150_000   # taille max renvoyée par requête, pour éviter un transfert trop long
 REQUEST_TIMEOUT = 8    # secondes, timeout des requêtes HTTP vers les sites visités
